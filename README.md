@@ -2,7 +2,7 @@
 <p align=center>Example code for discord.py spotify embeds</p>
 
 <h2 align=center> Prerequisite </h2>
-<p align = center> You need both the discord.py and pendulum libary.</p>
+<p> You need both the discord.py and pendulum libary.</p>
 
 <h3 align=center> Installing </h3>
 <h4> Installing discord.py </h4>
