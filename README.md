@@ -4,6 +4,8 @@ Example code for discord.py spotify embeds
 ## Prerequisite
 discord.py and pendulum libary.
 
+
+## Code preview
 ```py
 import discord
 from discord.ext import commands
