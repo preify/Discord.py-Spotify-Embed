@@ -1,14 +1,26 @@
 <h1 align=center> Discord.py Spotify embedding example code </h1>
 <p align=center>Example code for discord.py spotify embeds</p>
 
-## Prerequisite
-discord.py and pendulum libary.
+<h2 align=center> Prerequisite </h2>
+<p align = center> You need both the discord.py and pendulum libary.</p>
 
-### Why do I need pendulum? 
-Because it was the easiest way to format ```
-activity.duration```
+<h3 align=center> Installing </h3>
+<h4> Installing discord.py </h4>
+<p1><a href="https://discordpy.readthedocs.io/en/latest/intro.html#installing">Discord.py </a></p1>
+<p1> The official installation guide from Discord.py </p1>
 
-## Code preview
+<h4> Installing pendulum </h4>
+<p1> <a href="https://pendulum.eustace.io/docs/">Pendulum </a> </p1>
+<p1> The official installation guide from Pendulum. </p1>
+
+<h4> Using PIP </h4>
+
+```bash
+pip install -U pendulum discord.py
+```
+
+
+<h2 align=center> Code preview </h2>
 ```py
 import discord
 from discord.ext import commands
