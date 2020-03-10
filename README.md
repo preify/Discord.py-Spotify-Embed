@@ -1,5 +1,5 @@
-# Discord.py-Spotify-Embed
-Example code for discord.py spotify embeds
+<h1 align=center> Discord.py Spotify embedding example code </h1>
+<p align=center>Example code for discord.py spotify embeds</p>
 
 ## Prerequisite
 discord.py and pendulum libary.
