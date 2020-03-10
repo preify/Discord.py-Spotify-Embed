@@ -4,6 +4,9 @@ Example code for discord.py spotify embeds
 ## Prerequisite
 discord.py and pendulum libary.
 
+### Why do I need pendulum? 
+Because it was the easiest way to format ```
+activity.duration```
 
 ## Code preview
 ```py
