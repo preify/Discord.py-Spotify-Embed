@@ -21,6 +21,7 @@ pip install -U pendulum discord.py
 
 
 <h2 align=center> Code preview </h2>
+
 ```py
 import discord
 from discord.ext import commands
